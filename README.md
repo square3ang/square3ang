@@ -6,7 +6,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Android Studio | Visual Studio code | Visual Studio | Git
-- 🖥 &nbsp; Illustrator | Photoshop
 
 <br>
 
