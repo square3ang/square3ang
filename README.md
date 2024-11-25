@@ -5,7 +5,7 @@
 - 💻 &nbsp; Python | C# | Java | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; Android Studio | Visual Studio code | Visual Studio | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Visual Studio | Rider | CLion | Git
 
 <br>
 
