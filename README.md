@@ -3,9 +3,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C# | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
-- 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; Android Studio | Visual Studio code | Visual Studio | Rider | CLion | Git
+- 🌐 &nbsp; HTML | CSS | Sveltekit | Next.js | JavaScript | TypeScript
+- 🛢 &nbsp; MySQL | Firebase | MongoDB | Supabase
+- 🔧 &nbsp; Visual Studio Code | Visual Studio | Intellij IDEA | Git
 
 <br>
 
