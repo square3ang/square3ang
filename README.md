@@ -2,10 +2,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | Java | C++  
-- 🌐 &nbsp; HTML | CSS | Sveltekit | Next.js | JavaScript | TypeScript
+- 💻 &nbsp; C# | Java | C++ | C | Python
+- 🌐 &nbsp; HTML | CSS | Sveltekit | Next.js | Nuxt.js | JavaScript | TypeScript
 - 🛢 &nbsp; MySQL | Firebase | MongoDB | Supabase
-- 🔧 &nbsp; Visual Studio Code | Visual Studio | Intellij IDEA | Git
+- 🔧 &nbsp; Visual Studio Code | Antigravity IDE | Visual Studio | Intellij IDEA | Rider | Git
 
 <br>
 
