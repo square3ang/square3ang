@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; C# | Java | C++ | C | Python
 - 🌐 &nbsp; HTML | CSS | Sveltekit | Next.js | Nuxt.js | JavaScript | TypeScript
-- 🛢 &nbsp; MySQL | Firebase | MongoDB | Supabase
+- 🛢 &nbsp; MongoDB | Supabase
 - 🔧 &nbsp; Visual Studio Code | Antigravity IDE | Visual Studio | Intellij IDEA | Rider | Git
 
 <br>
