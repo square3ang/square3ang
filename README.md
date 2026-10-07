@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; C# | Java | C++ | C | Python | Rust
 - 🌐 &nbsp; HTML | CSS | Sveltekit | Next.js | Nuxt.js | JavaScript | TypeScript
-- 🛢 &nbsp; MongoDB | Supabase | Cloudflare D1
+- 🛢 &nbsp; MongoDB | Supabase | Cloudflare D1 | PostgreSQL
 - 🔧 &nbsp; OpenCode | Claude Code | Zed | Intellij IDEA | Rider | Git
 
 <br>
